@@ -8,7 +8,7 @@ To systematically benchmark the progress of current methods on compositional gen
 
 ## Dataset Statistics
 ![](https://github.com/YYJMJC/Compositional-Temporal-Grounding/blob/main/statistics.png)
-![](https://github.com/YYJMJC/Compositional-Temporal-Grounding/blob/main/distributions%20of%20composition%20types.png)
+![](https://github.com/YYJMJC/Compositional-Temporal-Grounding/blob/main/distributions%20of%20novel%20composition%20types.png)
 
 ## Compared Methods
 We evaluate the compositional generalizability of SOTA methods on the proposed Charades-CG and ActivityNetCG datasets. Specifically, these methods can be categorized into four groups:
