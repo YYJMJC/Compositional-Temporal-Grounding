@@ -7,7 +7,8 @@ This is the new proposed splits (i.e., Charades-CG and ActivityNet-CG) for the p
 To systematically benchmark the progress of current methods on compositional generalization, we introduce a new task, Compositional Temporal Grounding. Our compositional temporal grounding task aims to evaluate how well a model can generalize to query sentences that contain novel compositions or novel words. We construct new splits of two prevailing datasets Charades-STA and ActivityNet Captions, named Charades-CG and ActivityNet-CG, respectively. Specifically, we define two new testing splits: Novel-Composition and Novel-Word. Each sentence in the novel-composition split contains one type of novel composition. We define the composition as novel composition if its constituents are both observed during training but their combination way is novel. Each sentence in the novel-word splits contains a novel word, which aims to test whether a model can infer the potential semantics of the unseen word based on the other learned composition components appearing in the context.
 
 ## Dataset Statistics
-
+![](https://github.com/YYJMJC/Compositional-Temporal-Grounding/blob/main/statistics.png)
+![](https://github.com/YYJMJC/Compositional-Temporal-Grounding/blob/main/distributions%20of%20composition%20types.pdf)
 
 ## Compared Methods
 We evaluate the compositional generalizability of SOTA methods on the proposed Charades-CG and ActivityNetCG datasets. Specifically, these methods can be categorized into four groups:
