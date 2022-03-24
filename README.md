@@ -14,7 +14,7 @@ To systematically benchmark the progress of current methods on compositional gen
 We evaluate the compositional generalizability of SOTA methods on the proposed Charades-CG and ActivityNetCG datasets. Specifically, these methods can be categorized into four groups:
 
 1) Proposal-based methods:
-* [TMN](https://github.com/yytzsy/ABLR_code)
+* [CTRL](https://github.com/jiyanggao/TALL)
 * [2D-TAN](https://github.com/microsoft/2D-TAN)
 
 2) Proposal-free methods:
