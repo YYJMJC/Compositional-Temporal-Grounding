@@ -1,6 +1,6 @@
 # Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning
 
-This is the new proposed splits (i.e., Charades-CG and ActivityNet-CG) for the paper "Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning" (**CVPR 2022**).
+This is the newly proposed splits (i.e., Charades-CG and ActivityNet-CG) for the paper "Compositional Temporal Grounding with Structured Variational Cross-Graph Correspondence Learning" (**CVPR 2022**).
 
 ## Introduction
 
