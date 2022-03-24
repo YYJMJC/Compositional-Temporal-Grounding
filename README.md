@@ -28,7 +28,7 @@ We evaluate the compositional generalizability of SOTA methods on the proposed C
 * [WSSL](https://github.com/XgDuan/WSDEC)
 
 
-For all methods, we use the public ofﬁcial implementations to get their compositional temporal grounding results. We train them on the training set and evaluate them on the test-trivial, novel-composition, and novel-word splits respectively. We use uniﬁed video and language features for more fair comparisons. Concretely, we use I3D features for the video in Charades-CG and C3D features for the videos in ActivityNet-CG. We use pretrained GloVe word vectors to initialize each word in the language queries.
+For all methods, we use the public ofﬁcial implementations to get their compositional temporal grounding results. We train them on the training set and evaluate them on the test-trivial, novel-composition, and novel-word splits respectively. We use uniﬁed video and language features for more fair comparisons. Concretely, we use [I3D features](https://github.com/IsaacChanghau/VSLNet/tree/master/prepare) for the video in Charades-CG and [C3D features](https://app.box.com/s/h0sxa5klco6qve5ahnz50ly2nksmuedw) for the videos in ActivityNet-CG. We use pretrained GloVe word vectors to initialize each word in the language queries.
 
 ## Citation
 If you feel this project helpful to your research, please cite our work.
