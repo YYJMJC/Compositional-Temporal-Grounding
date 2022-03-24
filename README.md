@@ -39,5 +39,4 @@ If you feel this project helpful to your research, please cite our work.
       booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
       year={2022}
 }
-
 ```
